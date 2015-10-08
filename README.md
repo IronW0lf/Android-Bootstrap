@@ -1,2 +1,2 @@
 # Android-Bootstrap
-Just started learning web development. We'll see how it goes.
+I suck at web developing
