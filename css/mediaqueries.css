@@ -13,8 +13,11 @@
 @media (min-width: 768px) {
 	.carousel-description{
 		text-align: right;
-		margin-top: 10px;
 		margin-left: 10px;
+		width: 16%;
+		padding-bottom: 5px;
+		display: inline-block;
+		margin-top: 0px;
 	}
 	.carousel-wrapper{
 		margin-left: 10px;

@@ -12,7 +12,7 @@
 }
 .carousel-description{
 	text-align: center;
-	margin-top:0px;
+	margin-top:5px;
 }
 .redbutton{
 	margin-top: 10px;
@@ -22,4 +22,5 @@
 .carousel-wrapper{
 	width:80%;
 	float: right;
+	margin-bottom: 5px;
 }
