@@ -14,3 +14,12 @@
 	text-align: center;
 	margin-top:0px;
 }
+.redbutton{
+	margin-top: 10px;
+	border-radius: 10px;
+	float: right;
+}
+.carousel-wrapper{
+	width:80%;
+	float: right;
+}
