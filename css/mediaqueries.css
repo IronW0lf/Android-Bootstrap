@@ -8,6 +8,7 @@
 	.redbutton{
 		position: absolute;
 		left: 39%;
+		margin-right: 0px;
 	}
 }
 @media (min-width: 768px) {
