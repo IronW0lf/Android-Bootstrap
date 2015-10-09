@@ -2,11 +2,21 @@
 	body{
 		background-color: black;
 	}
+	.carousel-wrapper{
+		width: 100%;
+	}
+	.redbutton{
+		position: absolute;
+		left: 39%;
+	}
 }
 @media (min-width: 768px) {
 	.carousel-description{
-		text-align: left;
+		text-align: right;
 		margin-top: 10px;
+		margin-left: 10px;
+	}
+	.carousel-wrapper{
 		margin-left: 10px;
 	}
 }
@@ -15,5 +25,11 @@
 		right: 15%;
 		top: 0%;
 		left: 65%;
+	}
+}
+@media (max-width: 1000px) and (min-width: 769px){
+	.redbutton{
+		position: relative;
+		right: 29%;
 	}
 }
